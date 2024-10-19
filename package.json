@@ -1,5 +1,5 @@
 {
-  "name": "Marshmello_landing",
+  "name": "smartechvault",
   "version": "1.0.1",
   "description": "",
   "main": "index.html",
@@ -31,8 +31,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "bootstrapdash",
-  "url": "https://www.bootstrapdash.com/",
+  "author": "femi",
+  "url": "https://www.bandelefemi.com/",
   "copyright": "",
   "license": ""
 }
